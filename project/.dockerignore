@@ -1,0 +1,5 @@
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.pytest_cache/
+.env
